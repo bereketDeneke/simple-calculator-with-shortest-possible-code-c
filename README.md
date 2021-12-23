@@ -1,4 +1,4 @@
-# c-simple-calculator
+# simple-calculator-c++
 <b>The shortest possible way of creating simple calculator in c++</b> </br>
 💭SolBy: Bereket Siraw </br>
 📅Date: 12/23/2021 </br>
