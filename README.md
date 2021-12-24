@@ -6,5 +6,6 @@
 <h1>How To use</h1>
  => Install C++ compiler https://gcc.gnu.org/</br>
  => After extracting the zip folder locate the bin directory to the Enviroment variables' path</br>
- => Type "g++ knight.cpp" on cmd</br>
+ => Type "g++ calculator.cpp" on cmd</br>
  => Type "./a" to run the program</br>
+ => Type any number with operator sign among them. ie. "4+6"
