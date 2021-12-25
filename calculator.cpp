@@ -2,7 +2,6 @@
 [SolBy: Bereket Siraw]
 [Date: 12/23/2021]
 [4 more Info:TG->@thunder_is_taken]
-[Privacy and Policy:You are not allowed to modify or re-use the code without the author's permission]
 */
 #include <iostream> 
 int main(char __XO,double* __VL=new double[0x2]){ //[You can only use - * + / operators]
