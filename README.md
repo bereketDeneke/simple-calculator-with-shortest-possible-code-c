@@ -8,4 +8,4 @@
  => After extracting the zip folder locate the bin directory to the Enviroment variables' path</br>
  => Type "g++ calculator.cpp" on cmd</br>
  => Type "./a" to run the program</br>
- => Type any number with operator sign among them. ie. "4+6"
+ => Now, you can perform basic operations. ie. "4+6"
